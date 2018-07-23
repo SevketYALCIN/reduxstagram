@@ -1,6 +1,10 @@
-# Learn Redux
+# Reduxstagram
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+A simple React + Redux Instagram clone with static data.
+
+Features include Liking and Commenting (add, delete)
+
+![Reduxstagram](reduxstagram.JPG "Reduxstagram")
 
 ## Running
 
