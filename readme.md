@@ -2,7 +2,7 @@
 
 A simple React + Redux Instagram clone with static data.
 
-Features include Liking and Commenting (add, delete)
+Features include: Liking and Commenting (add, delete)
 
 ![Reduxstagram](reduxstagram.JPG "Reduxstagram")
 
